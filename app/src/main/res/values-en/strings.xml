@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">About me</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+
+    <string name="hotel">Hotel</string>
+    <string name="restaurante">Restaurant</string>
+
+    <string name="informacion">
+I study as a software development assistant, I am 21 years old, I live in Girardota, I like to travel, I would like to start my own business, I would like to have my own company, I like to go out with my friends and meet new people
+    </string>
+
+    <string name="nombre">Juan Manuel Hoyos Garcia</string>
+
+</resources>

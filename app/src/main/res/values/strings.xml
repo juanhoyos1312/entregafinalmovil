@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Español</string>
+
+    <string name="hotel">Hotel</string>
+    <string name="restaurante">Restaurante</string>
+
+    <string name="informacion">Estudio asistente en desarrollo de software, tengo 21 años, vivo en girardota, me gusta viajar , quisiera montar un negocio propio, quisiera tener mi propia empresa, me gusta salir con mis amigos y conocer personas nuevas
+    </string>
+
+    <string name="nombre">Juan Manuel Hoyos Garcia</string>
+</resources>
